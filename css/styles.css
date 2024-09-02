@@ -645,7 +645,7 @@ img {
 }
 
 .inquiries__list-item::after {
-    content: url('/assets/icons/arrow-icon.svg');
+    content: url('../assets/icons/arrow-icon.svg');
     width: 24px;
     height: 24px;
     display: flex;
